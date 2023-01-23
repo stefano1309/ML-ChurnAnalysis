@@ -1,1 +1,0 @@
-Kindly refer to Appendix G, Appendix H and section 4.1 Collection of the project report for a detailed description of the process flow of the artefact files.
